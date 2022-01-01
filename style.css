@@ -1,0 +1,7 @@
+body {
+background-image:linear-gradient(to top left, rgb(255, 115, 0),rgba(87, 162, 194, 0.973), rgba(255, 85, 198, 0.767));
+}
+
+#model{
+    color: chartreuse;
+}
